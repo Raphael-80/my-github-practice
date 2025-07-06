@@ -1,2 +1,4 @@
-# my-github-practice
-Github assignment for Cohort 26
+## Contributors
+
+- **Onuoha Raphael Chidera** – [ddralpho@gmail.com](mailto:ddralpho@gmail.com)  
+- **Instructor:** [Mubarraq](https://github.com/mubarraqqq)
